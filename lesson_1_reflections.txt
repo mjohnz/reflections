@@ -26,3 +26,11 @@ I guess so
 Now that you have your workspace set up, what do you want to try using Git for?
 
 writing code and updating periodically?
+
+What happens when you initialize a repository? Why do you need to do it?
+
+Well, it just is there... you add your shit and then it will always be updated.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+styaging area is a part of the working directory and is converted into a commit in the repository. repository has multiple commits
